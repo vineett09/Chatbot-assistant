@@ -2,6 +2,9 @@
 
 This project is submitted as part of the internship assignment.
 
+## Project Link:
+https://chatbot-assistant-six.vercel.app/
+
 ## 📌 Project Overview
 
 The application simulates a modern customer support interface, combining a real-time chat system between a support agent and client with an AI-powered assistant. The AI assistant analyzes user queries, sentiment, and context to help agents respond efficiently and appropriately.
